@@ -1,0 +1,27 @@
+"Hello World!"  #comment
+5 + 5   #addition
+
+name <- "Yash"
+age <- 22
+name   # output "Yash"
+age    # output 22
+
+# numeric
+x <- 10.5
+class(x)
+
+# integer
+x <- 1000L
+class(x)
+
+# complex
+x <- 9i + 3
+class(x)
+
+# character/string
+x <- "R is exciting"
+class(x)
+
+# logical/boolean
+x <- TRUE
+class(x)
